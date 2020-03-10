@@ -6,7 +6,7 @@ namespace FactoryMethod
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Factory method example");
+            Console.WriteLine("Factory method design pattern example");
             Console.WriteLine("Factory method is a creational design pattern which solves the problem of creating product objects without specifying their concrete classes.");
             Console.WriteLine();
 
